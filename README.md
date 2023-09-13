@@ -1,4 +1,6 @@
-# EEG-Conformer
+# Cross-subject EEG-Conformer
+
+**This fork of EEG-Conformer has been modified to facilitate cross-subject EEG decoding experiments using multiple datasets.**
 
 ### EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization [[Paper](https://ieeexplore.ieee.org/document/9991178)]
 ##### Core idea: spatial-temporal conv + pooling + self-attention
